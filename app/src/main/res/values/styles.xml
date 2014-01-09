@@ -1,0 +1,5 @@
+<resources>
+    <style name="PreferenceHelpText" parent="android:TextAppearance.Small">
+        <item name="android:textColor">@drawable/preference_summary_text</item>
+    </style>
+</resources>
