@@ -1,4 +1,4 @@
-FragmentsApp
+android_fragments
 ============
 
-Demo application to learn about fragments
+Android fragments example app
